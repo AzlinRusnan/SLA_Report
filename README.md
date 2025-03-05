@@ -4,7 +4,7 @@
 
 The SNOW Crystal Report provides insights into various Service Level Agreements (SLAs) across multiple communication channels and regions. This is a daily report tracking performance metrics such as customer satisfaction, response efficiency, and regional performance.
 
-##Tools & Technologies Used
+## Tools & Technologies Used
 
 - Microsoft Excel: Data organization, calculations, and visualization
 
