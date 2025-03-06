@@ -41,7 +41,7 @@ The report also tracks SLA performance for different regions:
 
 Each region follow agreed SLA benchmarks and performance tracking to ensure service consistency across global operations.
 
-## Sample Dashboard / Report Preview
+## Dashboard Preview
 ![1](images/sla.png)
 
 This is a daily SLA performance report tracking customer support efficiency across different regions. It measures how well teams meet response time targets for different channels like email, chat, and face-to-face interactions. Most regions are performing well, but LATAM's face-to-face SLA (44.06%) is below target, which may indicate process inefficiencies. Email and chat have high ticket volumes, meaning fast digital support is crucial.
